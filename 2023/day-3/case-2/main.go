@@ -6,7 +6,7 @@ import (
 	"log"
 	"slices"
 
-	"github.com/jasperve/libraries/file"
+	"github.com/jasperve/advent-of-code/libraries/file"
 	
 )
 
